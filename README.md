@@ -1,5 +1,10 @@
 # GeoPandas
 
+##### Activate virtual environment
+```shell
+source venv/bin/activate
+```
+
 ##### Install GeoPandas
 ```shell
 pip install geopandas
